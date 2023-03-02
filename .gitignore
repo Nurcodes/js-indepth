@@ -1,0 +1,5 @@
+nodepm
+fetch/node_modules
+fetch/*.png
+fetch/*.jpg
+fetch/*.json
