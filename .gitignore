@@ -3,3 +3,4 @@ fetch/node_modules
 fetch/*.png
 fetch/*.jpg
 fetch/*.json
+projects/PokemonCLI/node_modules
